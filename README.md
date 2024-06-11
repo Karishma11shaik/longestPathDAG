@@ -65,12 +65,11 @@ Expected Output:
 
 ## How to Run
 
-1. Ensure Java is installed on your machine. You can check this by running java -version in your terminal or command prompt.
-2. Save the script LongestPathDAG.java to your local machine.
-3. Open a terminal or command prompt and navigate to the directory where the script is saved.
-4. Compile the program using the command javac LongestPathDAG.java.
-5. Run the compiled program using the command java LongestPathDAG.
-6. The script will print the longest paths and their length for each example.
+1. Save the script LongestPathDAG.java to your local machine.
+2. Open a terminal or command prompt and navigate to the directory where the script is saved.
+3. Compile the program using the command javac LongestPathDAG.java.
+4. Run the compiled program using the command java LongestPathDAG.
+5. The script will print the longest paths and their length for each example.
 
 ## Questions Answered
 
